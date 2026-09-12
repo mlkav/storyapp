@@ -1,0 +1,9 @@
+Student Note:
+- Jenis Animasi: Property Animation (Fade-in / Slide pada Login) & Shared Element Transition (pada Poster/Foto Story ke Detail)
+
+- Lokasi Animasi:
+
+  1. LoginActivity.kt & RegisterActivity.kt (Property Animation via ObjectAnimator)
+  2. StoryAdapter.kt -> DetailActivity.kt (Shared Element Transition via ActivityOptionsCompat)
+
+- Bahasa Pendukung: Indonesia dan Inggris (Localization)

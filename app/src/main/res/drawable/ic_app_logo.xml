@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Slight Shadow for depth -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M4.5,7.5 L12,5.5 L19.5,7.5 L19.5,20.5 L12,18.5 L4.5,20.5 Z" />
+
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M3,6 C3,6 12,3 12,6 V20 C12,17 3,20 3,20 Z" />
+
+    <!-- Right Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,6 C12,3 21,6 21,6 V20 C21,20 12,17 12,20 Z" />
+
+    <!-- Center Spine -->
+    <path
+        android:strokeColor="#DDDDDD"
+        android:strokeWidth="0.5"
+        android:pathData="M12,6 V20" />
+
+    <!-- Three horizontal blue bars on the left page -->
+    <path
+        android:strokeColor="#2196F3"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M5.5,10 H9.5 M5.5,13 H9.5 M5.5,16 H9.5" />
+
+    <!-- Yellow vertical bookmark with ribbon end (V-shape) -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M15,4 H18 V12 L16.5,10.5 L15,12 Z" />
+</vector>
