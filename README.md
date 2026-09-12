@@ -1,9 +1,12 @@
 ## Submission Note: Story App Akhir - Dicoding
 
 Letakkan pada local.properties:
-```agsl
-MAPS_API_KEY=your_api_from_gcp
 ```
+MAPS_API_KEY= your_api_from_gcp
+```
+
+[GCP_Client_Side_Android](https://console.developers.google.com/flows/enableapi?apiid=maps-android-backend.googleapis.com&keyType=CLIENT_SIDE_ANDROID)
+
 Fitur yang diimplementasikan untuk memenuhi kriteria Bintang 5:
 
 1.  Paging 3 dengan RemoteMediator dan Room:
