@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="title_activity_maps">Peta</string>
+    <string name="include_location">Sertakan Lokasi</string>
+
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="logout">Keluar</string>
+    <string name="logout_confirm">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="error_password_short">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="error_empty_field">Field ini tidak boleh kosong</string>
+
+    <string name="no_stories">Tidak ada cerita</string>
+    <string name="dont_have_account">Belum punya akun? Daftar</string>
+    <string name="already_have_account">Sudah punya akun? Masuk</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu</string>
+    <string name="location_not_found">Lokasi tidak ditemukan. Coba lagi.</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="login_failed">Login gagal</string>
+</resources>
