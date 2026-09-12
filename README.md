@@ -2,7 +2,7 @@
 
 Letakkan pada local.properties:
 ```agsl
-MAPS_API_KEY=AIzaSyA2PsNYG5Mjrut5OBK5Rx5E_6IYx3KjDLs
+MAPS_API_KEY=your_api_from_gcp
 ```
 Fitur yang diimplementasikan untuk memenuhi kriteria Bintang 5:
 
